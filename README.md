@@ -1,5 +1,5 @@
 ## SQL_Data_Warehouse_Project
-**Building a modern data warehouse with SQL server, Including ETL processes, data modeling and analytics**
+**Building a modern data warehouse with MySQL, Including ETL processes, data modeling and analytics**
 >-----
 
 >Understand what is a Readme.md file first - .md means markdown,
@@ -47,7 +47,7 @@ This project involves:
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
 >
->This clean and detailed repository is an excellent resource for to follow best practices for any data architecture
+>This clean and detailed repository with best practices including below activities,
 >
 - SQL Development
 - Data Architect
