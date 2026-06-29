@@ -1,4 +1,4 @@
-## SQL_Data_Warehouse_Project
+## SQL_Data_Warehouse_Project_MySQL
 **Building a modern data warehouse with MySQL, Including ETL processes, data modeling and analytics**
 >-----
 
